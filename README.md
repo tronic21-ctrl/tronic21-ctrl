@@ -56,7 +56,7 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/React-060d1a?style=flat-square&logo=react&logoColor=38bdf8)
