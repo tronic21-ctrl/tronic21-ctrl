@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./banner-v3.png" 
+  <img src="./Banner-v3.png" 
        alt="RIKO TRONIC Banner" 
        width="1000" 
        style="border-radius: 12px; margin-bottom: 25px;">
