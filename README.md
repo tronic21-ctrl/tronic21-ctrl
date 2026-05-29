@@ -16,7 +16,7 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 
 ---
 
-### 🔭 What I Build
+### What I Build
 
 | Layer | Stack |
 |---|---|
@@ -29,22 +29,22 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 
 ---
 
-### 🚀 Featured Project — TronicLens
+### Featured Project — TronicLens
 
 > *On-chain intelligence for stakers who refuse to fly blind.*
 
-**[🌐 Live Demo](https://troniclens.vercel.app)** · **[📁 Repo](https://github.com/tronic21-ctrl/troniclens)**
+**[Live Demo](https://troniclens.vercel.app)** · **[📁 Repo](https://github.com/tronic21-ctrl/troniclens)**
 
-- 📊 Real-time staking analytics — TVL, Whale Activity, Staker Distribution
-- 🔗 Live Chainlink ETH/USD price feed
-- 🤖 AI Insights via 0G Compute (Qwen2.5-7b, TEE verified)
-- 📡 Subgraph-powered data (tronic-staking v0.0.2, 100% synced)
-- 💾 Snapshot storage on 0G Storage (Galileo Testnet)
-- 🏆 Submitted to **ETHOnline 2026** (Sep 4–16)
+- Real-time staking analytics — TVL, Whale Activity, Staker Distribution
+- Live Chainlink ETH/USD price feed
+- AI Insights via 0G Compute (Qwen2.5-7b, TEE verified)
+- Subgraph-powered data (tronic-staking v0.0.2, 100% synced)
+- Snapshot storage on 0G Storage (Galileo Testnet)
+- Submitted to **ETHOnline 2026** (Sep 4–16)
 
 ---
 
-### 📌 Projects
+### Projects
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
@@ -86,7 +86,7 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 
 ---
 
-### 📬 Connect with me
+### Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-060d1a?style=flat-square&logo=vercel&logoColor=38bdf8&label=portofolio-riko-mu.vercel.app)](https://portofolio-riko-mu.vercel.app)
 [![TronicLens](https://img.shields.io/badge/TronicLens-060d1a?style=flat-square&logo=ethereum&logoColor=38bdf8&label=troniclens.vercel.app)](https://troniclens.vercel.app)
