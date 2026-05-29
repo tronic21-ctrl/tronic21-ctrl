@@ -78,6 +78,11 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 ![Foundry](https://img.shields.io/badge/Foundry-060d1a?style=flat-square&logo=ethereum&logoColor=f59e0b)
 ![Vercel](https://img.shields.io/badge/Vercel-060d1a?style=flat-square&logo=vercel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-060d1a?style=flat-square&logo=graphql&logoColor=e10098)
+![Wagmi](https://img.shields.io/badge/Wagmi-060d1a?style=flat-square&logo=ethereum&logoColor=38bdf8&label=wagmi)
+![viem](https://img.shields.io/badge/viem-060d1a?style=flat-square&logo=ethereum&logoColor=fbbf24&label=viem)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-060d1a?style=flat-square&logo=rainbow&logoColor=7c3aed)
+![IPFS](https://img.shields.io/badge/IPFS-060d1a?style=flat-square&logo=ipfs&logoColor=65c2cb)
+![Dune Analytics](https://img.shields.io/badge/Dune_Analytics-060d1a?style=flat-square&logo=dune&logoColor=ff5e00)
 
 ---
 
