@@ -60,7 +60,7 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tronic21-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=38bdf8&icon_color=38bdf8&text_color=e0f7ff)
+![GitHub Stats](https://github-readme-stats-phi-seven-18.vercel.app/api?username=tronic21-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=38bdf8&icon_color=38bdf8&text_color=e0f7ff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tronic21-ctrl&theme=tokyonight&hide_border=true&background=060d1a&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8)
 
