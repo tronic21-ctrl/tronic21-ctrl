@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="./banner-v2.png" 
+  <img src="./banner-v3.png" 
        alt="RIKO TRONIC Banner" 
-       width="1150" 
+       width="1000" 
        style="border-radius: 12px; margin-bottom: 25px;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web3+Developer+%7C+On-Chain+Analytics;Smart+Contract+Engineer;Economics+%C3%97+Blockchain+%E2%86%92+DeFi+Tooling;Building+TronicLens+for+ETHOnline+2026)](https://git.io/typing-svg)
