@@ -33,7 +33,7 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 
 > *On-chain intelligence for stakers who refuse to fly blind.*
 
-**[Live Demo](https://troniclens.vercel.app)** · **[📁 Repo](https://github.com/tronic21-ctrl/troniclens)**
+**[Live Demo](https://troniclens.vercel.app)** · **[Repo](https://github.com/tronic21-ctrl/troniclens)**
 
 - Real-time staking analytics — TVL, Whale Activity, Staker Distribution
 - Live Chainlink ETH/USD price feed
@@ -51,7 +51,7 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 | **TronicLens** | On-chain analytics dashboard for DeFi staking | React · The Graph · Chainlink · 0G | [↗](https://troniclens.vercel.app) |
 | **DeFi Dashboard** | Multi-protocol DeFi portfolio tracker | React · ethers.js · CoinGecko API | [↗](https://defi-dashboard-pi.vercel.app) |
 | **Crypto Tracker** | Real-time crypto price tracker | React · Vite · REST API | [↗](https://crypto-tracker-pi-silk.vercel.app) |
-| **foundry-troniclens** | Smart contract test suite (16/16 ✅) | Foundry · Solidity | [↗](https://github.com/tronic21-ctrl/foundry-troniclens) |
+| **foundry-troniclens** | Smart contract test suite (16/16 passed) | Foundry · Solidity | [↗](https://github.com/tronic21-ctrl/foundry-troniclens) |
 | **solidity-contracts** | Collection of deployed Solidity contracts | Solidity · Sepolia | [↗](https://github.com/tronic21-ctrl/solidity-contracts) |
 
 ---
