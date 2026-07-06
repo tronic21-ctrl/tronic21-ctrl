@@ -91,8 +91,8 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 
 ### Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-060d1a?style=flat-square&logo=vercel&logoColor=38bdf8&label=portofolio-riko-mu.vercel.app)](https://portofolio-riko-mu.vercel.app)
-[![TronicLens](https://img.shields.io/badge/TronicLens-060d1a?style=flat-square&logo=ethereum&logoColor=38bdf8&label=troniclens.vercel.app)](https://troniclens.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-060d1a?style=flat-square&logo=vercel&logoColor=38bdf8&label=rikotronic.vercel.app)](https://rikotronic.vercel.app)
+[![X](https://img.shields.io/badge/X-060d1a?style=flat-square&logo=x&logoColor=white&label=%40rikotronic)](https://x.com/rikotronic)
 [![GitHub](https://img.shields.io/badge/GitHub-060d1a?style=flat-square&logo=github&logoColor=white&label=tronic21-ctrl)](https://github.com/tronic21-ctrl)
 
 ---
