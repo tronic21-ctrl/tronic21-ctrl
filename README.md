@@ -13,7 +13,7 @@
 
 ### Hi, I'm Riko
 
-Self-directed Web3 developer from **Maluku, Indonesia** — with a background in **Development Economics**. I build on-chain analytics tools and DeFi protocols, combining economic thinking with smart contract engineering.
+Self-directed Web3 developer from **Indonesia** — with a background in **Development Economics**. I build on-chain analytics tools and DeFi protocols, combining economic thinking with smart contract engineering.
 
 ---
 
