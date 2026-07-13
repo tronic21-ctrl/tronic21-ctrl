@@ -15,8 +15,6 @@
 
 Self-directed Web3 developer from **Maluku, Indonesia** — with a background in **Development Economics**. I build on-chain analytics tools and DeFi protocols, combining economic thinking with smart contract engineering.
 
-Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-chain intelligence dashboard for stakers, powered by The Graph, Chainlink, and 0G Network AI.
-
 ---
 
 ### What I Build
@@ -99,6 +97,4 @@ Currently building **[TronicLens](https://troniclens.vercel.app)** — an on-cha
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tronic21-ctrl&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-  *TronicLens — Built for ETHOnline 2026 — Powered by The Graph · Chainlink · 0G Network*
 </div>
