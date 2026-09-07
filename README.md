@@ -41,7 +41,6 @@ Self-directed Web3 developer from **Indonesia** — with a background in **Devel
 - AI Insights via 0G Compute (Qwen2.5-7b, TEE verified)
 - Subgraph-powered data (tronic-staking v0.0.2, 100% synced)
 - Snapshot storage on 0G Storage (Galileo Testnet)
-- Submitted to **ETHOnline 2026** (Sep 4–16)
 
 ---
 
