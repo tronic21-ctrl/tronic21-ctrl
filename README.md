@@ -34,7 +34,7 @@ Self-directed Web3 developer from **Indonesia** with a background in **Developme
 
 *A public audit trail for social aid disbursement in Indonesia.*
 
-**[Live Dashboard](https://bansoschain.vercel.app)** · **[Repo](https://github.com/tronic21-ctrl/bansoschain)** · **[Demo Video](VIDEO_LINK)**
+**[Live Dashboard](https://bansoschain.vercel.app)** · **[Repo](https://github.com/tronic21-ctrl/bansoschain)** · **[Demo Video](https://youtu.be/pInnk8Y3iyA?si=ID2fqVHPpZUyqGFH)**
 
 ![Tests](https://img.shields.io/badge/tests-22%20passing-38bdf8?style=flat-square&labelColor=060d1a)
 ![Coverage](https://img.shields.io/badge/contract%20coverage-100%25-38bdf8?style=flat-square&labelColor=060d1a)
