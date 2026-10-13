@@ -1,99 +1,55 @@
 <div align="center">
-
-  <img src="./Banner-v3.png" 
-       alt="RIKO TRONIC Banner" 
-       width="1000" 
-       style="border-radius: 12px; margin-bottom: 25px;">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web3+Developer+%7C+On-Chain+Analytics;Smart+Contract+Engineer;Economics+%C3%97+Blockchain+%E2%86%92+DeFi+Tooling;Building+TronicLens+for+ETHOnline+2026)](https://git.io/typing-svg)
-
+  <img src="./Banner-v3.png" alt="Riko Tronic" width="1000">
 </div>
 
 ---
 
 ### Hi, I'm Riko
 
-Self-directed Web3 developer from **Indonesia** — with a background in **Development Economics**. I build on-chain analytics tools and DeFi protocols, combining economic thinking with smart contract engineering.
+Web3 developer from **Indonesia** with a background in **Development Economics**. I build on-chain tools that make money flows easier to check: smart contracts, indexers, and dashboards. Self-taught since April 2026.
 
 ---
 
-### What I Build
+### Featured project: BanSOSChain
 
-| Layer | Stack |
-|---|---|
-| **Frontend** | React · Vite · Framer Motion · ethers.js |
-| **Smart Contracts** | Solidity · Foundry · Hardhat · OpenZeppelin |
-| **Indexing** | The Graph (Subgraph) · GraphQL |
-| **Oracles** | Chainlink Price Feeds |
-| **Decentralized AI** | 0G Compute (Qwen2.5 TEE) · 0G Storage |
-| **Deployment** | Vercel · Sepolia Testnet · Blockscout |
+> A public audit trail for social aid disbursement in Indonesia.
 
----
+**[Live dashboard](https://bansoschain.vercel.app)** · **[Repo](https://github.com/tronic21-ctrl/bansoschain)** · **[Demo video](https://youtu.be/rdXs8qEJ5Do?si=p3XSnswTvVnruQJ2)**
 
-### Featured Project — TronicLens
-
-> *On-chain intelligence for stakers who refuse to fly blind.*
-
-**[Live Demo](https://troniclens.vercel.app)** · **[Repo](https://github.com/tronic21-ctrl/troniclens)**
-
-- Real-time staking analytics — TVL, Whale Activity, Staker Distribution
-- Live Chainlink ETH/USD price feed
-- AI Insights via 0G Compute (Qwen2.5-7b, TEE verified)
-- Subgraph-powered data (tronic-staking v0.0.2, 100% synced)
-- Snapshot storage on 0G Storage (Galileo Testnet)
+- Every step, from application to disbursement, is recorded on-chain and can be checked by anyone
+- Two contracts verified on BscScan (BNB Chain Testnet): BeneficiaryRegistry and DisbursementPool
+- 22 Foundry tests passing, 100% line coverage on both contracts
+- Ponder indexer, AI-assisted eligibility check with human verifier review, bilingual EN/ID dashboard
+- Submitted to the Indonesia Web3 Hackathon 2026
 
 ---
 
 ### Projects
 
-| Project | Description | Stack | Live |
+| Project | Description | Stack | Links |
 |---|---|---|---|
-| **TronicLens** | On-chain analytics dashboard for DeFi staking | React · The Graph · Chainlink · 0G | [↗](https://troniclens.vercel.app) |
-| **DeFi Dashboard** | Multi-protocol DeFi portfolio tracker | React · ethers.js · CoinGecko API | [↗](https://defi-dashboard-pi.vercel.app) |
-| **Crypto Tracker** | Real-time crypto price tracker | React · Vite · REST API | [↗](https://crypto-tracker-pi-silk.vercel.app) |
-| **foundry-troniclens** | Smart contract test suite (16/16 passed) | Foundry · Solidity | [↗](https://github.com/tronic21-ctrl/foundry-troniclens) |
-| **solidity-contracts** | Collection of deployed Solidity contracts | Solidity · Sepolia | [↗](https://github.com/tronic21-ctrl/solidity-contracts) |
+| **BanSOSChain** | Public audit trail for social aid disbursement | Solidity · Foundry · Next.js · Ponder · BNB Chain Testnet | [Live](https://bansoschain.vercel.app) · [Repo](https://github.com/tronic21-ctrl/bansoschain) |
+| **TronicLens** | On-chain analytics dashboard for DeFi staking | React · The Graph · Chainlink · 0G | [Live](https://troniclens.vercel.app) · [Repo](https://github.com/tronic21-ctrl/troniclens) |
+| **foundry-troniclens** | Foundry test suite for the TronicLens contracts | Foundry · Solidity | [Repo](https://github.com/tronic21-ctrl/foundry-troniclens) |
+| **DeFi Dashboard** | Protocol analytics powered by the Dune API and custom SQL | React · Dune API | [Live](https://defi-dashboard-pi.vercel.app) |
+| **Crypto Tracker** | Real-time crypto price tracker | React · Vite · REST API | [Live](https://crypto-tracker-pi-silk.vercel.app) |
+| **solidity-contracts** | Collection of deployed Solidity contracts | Solidity · Sepolia | [Repo](https://github.com/tronic21-ctrl/solidity-contracts) |
 
 ---
 
-### GitHub Stats
+### What I build with
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-phi-seven-18.vercel.app/api?username=tronic21-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=38bdf8&icon_color=38bdf8&text_color=e0f7ff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tronic21-ctrl&theme=tokyonight&hide_border=true&background=060d1a&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8)
-
-</div>
-
----
-
-### Tech Stack
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-060d1a?style=flat-square&logo=react&logoColor=38bdf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-060d1a?style=flat-square&logo=javascript&logoColor=f59e0b)
-![The Graph](https://img.shields.io/badge/The_Graph-060d1a?style=flat-square&logo=thegraph&logoColor=38bdf8)
-![Chainlink](https://img.shields.io/badge/Chainlink-060d1a?style=flat-square&logo=chainlink&logoColor=375bd2)
-![Foundry](https://img.shields.io/badge/Foundry-060d1a?style=flat-square&logo=ethereum&logoColor=f59e0b)
-![Vercel](https://img.shields.io/badge/Vercel-060d1a?style=flat-square&logo=vercel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-060d1a?style=flat-square&logo=graphql&logoColor=e10098)
-![Wagmi](https://img.shields.io/badge/Wagmi-060d1a?style=flat-square&logo=ethereum&logoColor=38bdf8)
-![viem](https://img.shields.io/badge/viem-060d1a?style=flat-square&logo=ethereum&logoColor=fbbf24)
-![RainbowKit](https://img.shields.io/badge/RainbowKit-060d1a?style=flat-square&logo=rainbow&logoColor=7c3aed)
-![IPFS](https://img.shields.io/badge/IPFS-060d1a?style=flat-square&logo=ipfs&logoColor=65c2cb)
-![Dune Analytics](https://img.shields.io/badge/Dune_Analytics-060d1a?style=flat-square&logo=dune&logoColor=ff5e00)
+| Layer | Stack |
+|---|---|
+| **Frontend** | Next.js · React · Vite · wagmi · viem · Reown AppKit |
+| **Smart contracts** | Solidity · Foundry · Hardhat · OpenZeppelin |
+| **Indexing** | Ponder · The Graph · GraphQL |
+| **Data and oracles** | Chainlink Price Feeds · Dune |
+| **Decentralized AI** | 0G Compute · 0G Storage (TronicLens) |
+| **Networks and deployment** | Sepolia · BNB Chain Testnet · Vercel · Railway · Blockscout · BscScan |
 
 ---
 
-### Connect with me
+### Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-060d1a?style=flat-square&logo=vercel&logoColor=38bdf8&label=rikotronic.vercel.app)](https://rikotronic.vercel.app)
-[![X](https://img.shields.io/badge/X-060d1a?style=flat-square&logo=x&logoColor=white&label=%40rikotronic)](https://x.com/rikotronic)
-[![GitHub](https://img.shields.io/badge/GitHub-060d1a?style=flat-square&logo=github&logoColor=white&label=tronic21-ctrl)](https://github.com/tronic21-ctrl)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tronic21-ctrl&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
+[Portfolio](https://rikotronic.vercel.app) · [X @rikotronic](https://x.com/rikotronic)
